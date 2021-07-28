@@ -1,2 +1,2 @@
 # neural network for recognizing medical gloves
- neural network for recognizing medical gloves-Copy1
+dataset --> https://www.kaggle.com/adityagupta008/medical-gloves-recognition-dataset
